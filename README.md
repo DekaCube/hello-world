@@ -1,2 +1,0 @@
-## README ##
-### Daniel Bennett ###
